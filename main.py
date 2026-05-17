@@ -1,3 +1,4 @@
+# insertion sort descending order
 def insertion_sort_desc(arr):
     for i in range(1, len(arr)):
         key = arr[i]
