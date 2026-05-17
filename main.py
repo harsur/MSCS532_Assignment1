@@ -11,5 +11,5 @@ def insertion_sort_desc(arr):
 
     return arr
 
-arr = [5, 2, 9, 1, 6]
+arr = [10, 3, 8, 2]
 print(insertion_sort_desc(arr))
